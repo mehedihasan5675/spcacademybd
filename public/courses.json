@@ -1,0 +1,143 @@
+[
+  {
+    "title": "ALL",
+    "value": "all",
+    "anyInfo": "",
+    "content": [
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "all",
+        "payload": ""
+      }
+    ]
+  },
+  {
+    "title": "HSC",
+    "value": "hsc",
+    "anyInfo": "New",
+    "content": [
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "HSC",
+        "payload": "25"
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "HSC",
+        "payload": "25"
+      },
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "./img/bannerImg.jpg",
+        "category": "HSC",
+        "payload": "25"
+      }
+    ]
+  },
+  {
+    "title": "Ict",
+    "value": "ict",
+    "anyInfo": "",
+    "content": [
+      {
+        "id": 0,
+        "name": "৭ সাবজেক্ট বান্ডেল প্যাকেজ Module 4 (HSC-25) ",
+        "designation": "SPC প্রিমিয়াম একাডেমিক প্রোগ্রাম",
+        "price": "৳৪৫০০",
+        "fakePrice": "৳৫০০০",
+
+        "details": "বিস্তারিত",
+        "img_url": "/public/img/bannerImg.jpg",
+        "category": "ICT",
+        "payload": ""
+      }
+    ]
+  }
+]

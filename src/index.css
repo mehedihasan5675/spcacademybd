@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clipPath {
+  clip-path: polygon(50% 0%, 100% 0, 100% 100%, 50% 93%, 0 100%, 0 0);
+  /* clip-path: polygon(50% 0%, 100% 0, 100% 90%, 50% 100%, 0 90%, 0 0); */
+}
+
+.banner_bg {
+  background-color: #9af8cf;
+  background-image: radial-gradient(
+      at 78% 26%,
+      hsl(207, 60%, 61%) 0px,
+      transparent 50%
+    ),
+    radial-gradient(at 3% 91%, hsl(141, 70%, 71%) 0px, transparent 50%);
+}
